@@ -1,2 +1,3 @@
-# math_archive
-math_archive
+# Math Archive
+
+Contains write ups of homeworks and selected notes on math studied
